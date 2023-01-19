@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  <img alt="Santiago Velasquez" src="fire-text.gif">
+</h1>
+
+<!--
+### Hello!
+My name is Santiago Velasquez! I am a beginner C/C++ developer with an interest in computer graphics.
+-->
 
 <!--
 **28SVELASQUEZ/28SVELASQUEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
