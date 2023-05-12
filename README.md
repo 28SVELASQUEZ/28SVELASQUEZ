@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img alt="Santiago Velasquez" src="fire-text.gif">
+  <img alt="SANTIAGO VELASQUEZ" src="fire-text.gif">
 </h1>
+
 
 <!--
 ### Hello!
